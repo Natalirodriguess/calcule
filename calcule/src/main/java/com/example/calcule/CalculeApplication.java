@@ -10,8 +10,6 @@ public class CalculeApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CalculeApplication.class, args);
-		CalculadoraService calculadoraService = new CalculadoraService();
-		System.out.println(calculadoraService.subtracao(4d, 5d));
 	}
 
 }
