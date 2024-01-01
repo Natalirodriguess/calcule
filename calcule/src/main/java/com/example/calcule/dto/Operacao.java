@@ -1,4 +1,4 @@
-package com.example.calcule.model;
+package com.example.calcule.dto;
 
 
 public class Operacao {
